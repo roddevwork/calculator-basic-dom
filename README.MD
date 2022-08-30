@@ -14,6 +14,8 @@
 
 - [Home: index.html](./index.html)
 
+- ![](./img/web.png)
+
 ## Author:
 
 - Rodrigo Cardona
