@@ -10,11 +10,11 @@
 
 - [click here](https://roddevwork.github.io/dom_basic/)
 
+- ![](./img/web.png)
+
 ## Pages code:
 
 - [Home: index.html](./index.html)
-
-- ![](./img/web.png)
 
 ## Author:
 
