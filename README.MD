@@ -18,12 +18,13 @@
 
 ## Author:
 
-- Rodrigo Cardona
+- Rodrigo C.
 
 ---
 
 ## Full Description:
 
+- A simple practice of interacting with the js dom api
 ---
 
 ---
@@ -46,8 +47,10 @@
 
 ## Autor:
 
-- Rodrigo Cardona
+- Rodrigo C.
 
 ---
 
 ## Descripción detallalda:
+
+- Una practica simple de interacion con la api del dom de js
