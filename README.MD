@@ -8,7 +8,7 @@
 
 ## Website:
 
-- [click here](https://roddevwork.github.io/dom_basic/)
+- [click here](https://roddevwork.github.io/calculator-basic-dom/)
 
 - ![](./img/web.png)
 
